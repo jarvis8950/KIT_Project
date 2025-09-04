@@ -4,9 +4,9 @@
 task to be completed ---
 
 
-Shadab- Will be working on home page <b>
-Ravi - will be working on  contact us page <b>
-varsha -- will be working on service page  <b>
+Shadab- Will be working on home page <br>
+Ravi - will be working on  contact us page <br>
+varsha -- will be working on service page  <br>
 
 samyak- will be working on courses page
 
