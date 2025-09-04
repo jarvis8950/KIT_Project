@@ -11,3 +11,5 @@ varsha -- will be working on service page  <br>
 samyak- will be working on courses page
 
 aditya - will be working on about us page
+
+<br>ashish- will be working on gallary page
